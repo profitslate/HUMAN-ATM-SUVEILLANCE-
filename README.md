@@ -55,7 +55,7 @@ Download Requirements
 <h5>
     You need Two requirements
     <ul>
-        <li><a href="https://github.com/tutoraddicts/ATM_SEQURITY/releases/tag/0.2">YOLOV3 MODEL</a></li>
-        <li><a href="https://github.com/tutoraddicts/ATM_SEQURITY/releases/tag/0.2">JSON File</a></li>
+        <li><a href="https://github.com/profitslate/HUMAN-ATM-SUVEILLANCE-/releases/download/V0.1/detection_model-ex-063--loss-0009.921.h5">YOLOV3 MODEL</a></li>
+        <li><a href="https://github.com/profitslate/HUMAN-ATM-SUVEILLANCE-/releases/download/V0.1/detection_config.json">JSON File</a></li>
     </ul> 
 </h5>
